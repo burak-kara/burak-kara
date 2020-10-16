@@ -3,9 +3,9 @@ Hey 👋🏻,
 I am a Master student from Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript Python and C++
 
 ## 📬 Get in touch
-- Web: [https://burak-kara.web.app/]
-- LinkedIn: [https://www.linkedin.com/in/burak--kara/]
-- GitLab: [https://gitlab.com/burak.kara]
+- Web: [burak-kara][1]
+- LinkedIn: [inkedin.com/in/burak--kara][2]
+- GitLab: [gitlab.com/burak.kara][3]
 
 
 <!--
@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://burak-kara.web.app/
+[2]: https://www.linkedin.com/in/burak--kara/
+[3]: https://gitlab.com/burak.kara
