@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am a Master student from Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript Python and C++
+I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript Python and C++
 
 ## 📬 Get in touch
 - Web: [burak-kara][1]
