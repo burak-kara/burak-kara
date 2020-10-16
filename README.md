@@ -1,4 +1,12 @@
-### Hi there 👋
+Hey 👋🏻,
+
+I am a Master student from Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript Python and C++
+
+## 📬 Get in touch
+- Web: [https://burak-kara.web.app/]
+- LinkedIn: [https://www.linkedin.com/in/burak--kara/]
+- GitLab: [https://gitlab.com/burak.kara]
+
 
 <!--
 **burak-kara/burak-kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
