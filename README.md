@@ -4,8 +4,8 @@ I am a Master student from Turkey. I am interested in VR, Multimedia Systems and
 
 ## 📬 Get in touch
 - Web: [burak-kara][1]
-- LinkedIn: [inkedin.com/in/burak--kara][2]
-- GitLab: [gitlab.com/burak.kara][3]
+- LinkedIn: [linkedin/burak-kara][2]
+- GitLab: [gitlab/burak.kara][3]
 
 
 <!--
