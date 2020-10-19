@@ -5,7 +5,7 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 ## 📬 Get in touch
 - Web: [burak-kara][1]
 - LinkedIn: [linkedin/burak-kara][2]
-- GitLab: [gitlab/burak.kara][3]
+- GitLab: [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab">][3]
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
