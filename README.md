@@ -2,11 +2,6 @@ Hey 👋🏻,
 
 I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript, Python and C++
 
-## 📬 Get in touch
-- Web: [burak-kara][1]
-- LinkedIn [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="gitlab" width="20" height="20">][2]
-- GitLab   [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="20" height="20">][3]
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
@@ -16,6 +11,7 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
 </p>
 
+## 📬 Get in touch
 <p align="center">
   <a href="https://www.linkedin.com/in/burak--kara" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />
