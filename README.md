@@ -16,6 +16,13 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/burak--kara" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakkara" height="30" width="30" />
+  </a>
+</p>
+
+
 <!--
 **burak-kara/burak-kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
