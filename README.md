@@ -18,7 +18,10 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burak--kara" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="burakkara" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://gitlab.com/burak.kara" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40" width="40" />
   </a>
 </p>
 
