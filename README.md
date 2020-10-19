@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am interested in VR, Multimedia Systems and Computer Networking, with Java, JavaScript, Python and C++
+I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am interested in VR, Multimedia Systems and Computer Networking.
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
