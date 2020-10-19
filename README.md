@@ -4,7 +4,7 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
-  <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40">
+  <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="120" width="60">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react">
@@ -15,7 +15,7 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 ## 📬 Get in touch
 <p align="center">
   <a href="https://www.linkedin.com/in/burak--kara" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="50" />
   </a>
   <a href="https://gitlab.com/burak.kara" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40" width="40" />
