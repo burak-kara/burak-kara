@@ -7,6 +7,12 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 - LinkedIn: [linkedin/burak-kara][2]
 - GitLab: [gitlab/burak.kara][3]
 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript">
+</p>
 
 <!--
 **burak-kara/burak-kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
