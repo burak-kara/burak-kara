@@ -4,7 +4,6 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. I am inter
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" disabled="true">
-  <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="60" width="120">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react">
