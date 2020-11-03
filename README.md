@@ -1,6 +1,7 @@
 Hey 👋🏻,
 
 I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on a couple of international graduate projects about VR, Multimedia Systems and Low Latency. In the recent years, I have worked on full stack projects with ReactJS and Spring Boot. 
+
 I have strong experience in Java (SE, EE, OOP), Python (Network libraries), React (both JS and TS).
 
 <p align="center">
