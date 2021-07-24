@@ -5,7 +5,7 @@ I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently,
 I have strong experience in Java (SE, EE, OOP), Python (Networking, Data Science and general stuff), React (both JS and TS).
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" disabled="true">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react">
@@ -15,18 +15,19 @@ I have strong experience in Java (SE, EE, OOP), Python (Networking, Data Science
 
 ## 📬 Get in touch
 <p align="center">
-  <a href="https://www.linkedin.com/in/burak--kara" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="50" />
+  <a href="https://www.linkedin.com/in/burak--kara" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />
   </a>
-  <a href="https://gitlab.com/burak.kara" target="blank">
+  <a href="https://gitlab.com/burak.kara" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40" width="40" />
+  </a>
+  <a href="https://burak-kara.dev/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://burak-kara.dev/logo.png" alt="personal website" height="40" width="40" />
   </a>
 </p>
 
 
 <!--
-**burak-kara/burak-kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -38,7 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[1]: https://burak-kara.web.app/
-[2]: https://www.linkedin.com/in/burak--kara/
-[3]: https://gitlab.com/burak.kara
