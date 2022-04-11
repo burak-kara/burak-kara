@@ -1,8 +1,10 @@
 Hey 👋🏻,
 
-I am a MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on a couple of international graduate projects about VR, Multimedia Systems and Low Latency. In the recent years, I have worked on full stack projects with ReactJS and Spring Boot. 
+I am an MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on a couple of international graduate projects about 360-degree video streaming, Multimedia Systems and Low Latency. In recent years, I have worked on full-stack projects with React (JS and TS), Spring Boot and Python Django. 
 
-I have strong experience in Java (SE, EE, OOP), Python (Networking, Data Science and general stuff), React (both JS and TS).
+I have strong experience in Java (SE, EE, OOP), Python (Networking, Data Science and scripting), React (both JS and TS), and Shell scripting. I also have some experience in R (mainly on plotting and basic data processing).
+
+I would like to gain some experience in Ruby and Go.
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
