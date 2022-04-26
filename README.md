@@ -24,7 +24,7 @@ I would like to gain some experience in Ruby and Go.
     <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40" width="40" />
   </a>
   <a href="https://burak-kara.dev/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://burak-kara.dev/icons/apple-icon-60x60.png" alt="personal website" height="40" width="40" />
+    <img align="center" src="https://burak-kara.dev/images/icons/apple-icon-60x60.png" alt="personal website" height="40" width="40" />
   </a>
 </p>
 
