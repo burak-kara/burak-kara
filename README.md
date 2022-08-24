@@ -1,8 +1,8 @@
 Hey 👋🏻,
 
-I am an MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on a couple of international graduate projects about 360-degree video streaming, Multimedia Systems and Low Latency. In recent years, I have worked on full-stack projects with React (JS and TS), Spring Boot and Python Django. 
+I am a new grad MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on an international graduate project about 360-degree video streaming, Multimedia Systems and Low Latency. In recent years, I have worked on full-stack projects with React (JS and TS), NestJS, NextJS, Spring Boot and Python Django. 
 
-I have strong experience in Java (SE, EE, OOP), Python (Networking, Data Science and scripting), React (both JS and TS), and Shell scripting. I also have some experience in R (mainly on plotting and basic data processing).
+I have strong experience in JavaScript/TypeScript based frameworks such as React, React Native, NestJs and NextJs. I alos have some experience on Java (SE, EE, OOP), Python (Networking, Data Science and scripting) and Shell scripting. I also have some experience in R (mainly on plotting and basic data processing).
 
 I would like to gain some experience in Ruby and Go.
 
