@@ -8,6 +8,8 @@ I have strong experience in JavaScript/TypeScript-based frameworks such as React
 
 I would like to gain some experience in Ruby and Go.
 
+I have been mainly coding for the commercial products hosted on GitLab. Therefore, the activity here can seem less.
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
