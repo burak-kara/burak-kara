@@ -1,8 +1,10 @@
 Hey 👋🏻,
 
-I am a new grad MSc in CS student at Ozyegin University from Istanbul, Turkey. Currently, I am working on an international graduate project about 360-degree video streaming, Multimedia Systems and Low Latency. In recent years, I have worked on full-stack projects with React (JS and TS), NestJS, NextJS, Spring Boot and Python Django. 
+The MSc new grad with junior-level full stack developer experience. Seeking full-time software developer opportunities. Working on a 360-video streaming project and gaining hands-on experience in full-stack development.
 
-I have strong experience in JavaScript/TypeScript based frameworks such as React, React Native, NestJs and NextJs. I alos have some experience on Java (SE, EE, OOP), Python (Networking, Data Science and scripting) and Shell scripting. I also have some experience in R (mainly on plotting and basic data processing).
+I am a new grad MSc in CS student at Ozyegin University from Istanbul, Türkiye. I have been working on a 360-degree video streaming project with Nokia (Finland) for 2+ years. Also, I have been writing code on full-stack projects with React (JS and TS), NestJS, NextJS, Spring Boot and Python Django for both school, side projects and at the enterprise level. 
+
+I have strong experience in JavaScript/TypeScript-based frameworks such as React, React Native, NestJs and NextJs. I also have experience in Java (Spring Boot), Python (Networking, Data Science and scripting), C++ (socket programming), R (plotting and basic data processing) and Shell scripting.
 
 I would like to gain some experience in Ruby and Go.
 
