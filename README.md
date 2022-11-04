@@ -1,11 +1,12 @@
 Hey 👋🏻,
 
-I am a MSc new grad in CS with junior-level full stack developer experience from Ozyegin University, Istanbul, Türkiye. I have been working on multimedia (particularly, 360-degree video) streaming on my academic studies with Nokia (Finland) for more than 2 years. Several papers and patent fillings from these studies can be found at my [website](https://burak-kara.dev/academic#publications).
+I am a MSc new grad in CS with junior-level full stack developer experience from Ozyegin University, Istanbul, Türkiye. I have been working on multimedia (particularly, 360-degree video) streaming on my academic studies with Nokia (Finland) for more than 2 years. Details can be found [here](https://burak-kara.dev/experience). Several papers and patent fillings from these studies and my academic background can be found at my [website](https://burak-kara.dev/academic).
 
-I have been gaining hands-on experience in full-stack development with React Native, Node.js based frameworks such as React (JS and TS), NestJS, NextJS using in both school, side projects and at the enterprise level. Also, I use Python (Networking, Data Science and scripting), C++ (socket programming), R (plotting and basic data processing) and Shell scripting. Recently, I have started to write in Ruby on Rails and Ember.js for my new occupation.
+I have been gaining hands-on experience in full-stack development with React Native, Node.js based frameworks such as React (JS and TS), NestJS, NextJS using in both school, side projects and at the enterprise level. Also, I use Python (Networking, Data Science and scripting), C++ (socket programming), R (plotting and basic data processing) and Shell scripting. Recently, I have started to write in Ruby on Rails and Ember.js for my new occupation. More details on my experience at [here](https://burak-kara.dev/experience). Last, I hold a couple of [honors](https://burak-kara.dev/awards). 
 
-I believe languages and frameworks are just tools to solve problems and express our inner creativity. Therefore, there is nothing wrong with trying a new one, at least
-to suppress an inner curiosity 🤙🤙
+I believe languages and frameworks are just tools to solve problems and express our inner creativity. Therefore, there is nothing wrong with trying a new one, at least to suppress an inner curiosity 🤙🤙
+
+🚴‍♂️ I have started to ride in summer 2021 where I was able to ride just a couple of KMs. Since then, I am riding and observing my progress to the current where I can ride more than 100 KMs with ease. Some of my rides can be seen [here](https://burak-kara.dev/social). 
 
 I would like to gain some experience Go. I have mainly coding for the commercial products hosted on GitLab. Therefore, the activity here can seem less.
 
