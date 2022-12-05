@@ -8,7 +8,7 @@ I believe languages and frameworks are just tools to solve problems and express 
 
 🚴‍♂️ I have started to ride in summer 2021 where I was able to ride just a couple of KMs. Since then, I am riding and observing my progress to the current where I can ride more than 100 KMs with ease. Some of my rides can be seen [here](https://burak-kara.dev/social). 
 
-I would like to gain some experience Go. I have mainly coding for the commercial products hosted on GitLab. Therefore, the activity here can seem less.
+I would like to gain some experience in Go. I have mainly coding for the commercial products hosted on GitLab or others. Therefore, the activity here can seem less.
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burak-kara&count_private=true&show_icons=true&theme=apprentice)
 
