@@ -12,7 +12,7 @@ I would like to gain some experience in Go. I have mainly coding for the commerc
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burak-kara&count_private=true&show_icons=true&theme=apprentice)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kara&hide=html,c&langs_count=4&layout=compact&theme=apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kara&hide=html,c,scss,css,jupyter%20notebook,cmake,perl,v,verilog&layout=compact&theme=apprentice)
 
 ## 📬 Get in touch
 <p align="center">
