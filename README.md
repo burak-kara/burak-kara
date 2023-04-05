@@ -1,14 +1,14 @@
-Hey 👋🏻,
+Hey I'm Burak 👋🏻,
 
-📚 I am a MSc new grad in CS with junior-level full stack developer experience from Ozyegin University, Istanbul, Türkiye. I have been working on multimedia (particularly, 360-degree video) streaming on my academic studies with Nokia (Finland) for more than 2 years. Details can be found [here](https://burak-kara.dev/experience). Several papers and patent fillings from these studies and my academic background can be found at my [website](https://burak-kara.dev/academic).
+I have been working in the field of video streaming for more than three years. I've gained experience in 360-degree video streaming and low-latency streaming. I am constantly looking to learn and improve my skills, and I am always open to new opportunities and challenges.
 
-💼 I have been gaining hands-on experience in full-stack development with React Native, Node.js based frameworks such as React (JS and TS), NestJS, NextJS using in both school, side projects and at the enterprise level. Also, I use Python (Networking, Data Science and scripting), C++ (socket programming), R (plotting and basic data processing) and Shell scripting. Recently, I have started to write in Ruby on Rails and Ember.js for my new occupation. More details on my experience at [here](https://burak-kara.dev/experience). Last, I hold a couple of [honors](https://burak-kara.dev/awards). 
+📚 I am a Ph.D candidate [@Inria](https://team.inria.fr/ermine/) while I work at [@Synamedia](https://www.synamedia.com/) Rennes as an Assosiate Software Architect. Prevously, I recieved my Master's and Bachelor's degree from [Ozyegin University](https://www.ozyegin.edu.tr/en), Turkiye. During my master's degree, I worked on 360-degree video streaming with [Nokia](https://www.bell-labs.com/) for more than 2 years. In this project, we have filled three patent applications, and published three conference and one journal papers. The publications can be found [here](https://burak-kara.dev/academic).
+
+💼 Besides my academic background, I had opportunities to work with such talented colleagues at amazing companies but in short tems. I've experienced in full-stack development with Node.js based frameworks such as React (JS and TS), NestJS, NextJS by utilizing them in both school and side projects, and also at the enterprise level [@Trendyol](https://github.com/trendyol). I've also exprience in Ruby (on Rails) and Ember.js for six months during my experience [@Parasut](https://github.com/parasutcom). Also, I use Python (Networking, Data Science and scripting), C++ (socket programming), R (plotting and basic data processing) and Shell scripting. More details can be found [here](https://burak-kara.dev/experience). 
 
 I believe languages and frameworks are just tools to solve problems and express our inner creativity. Therefore, there is nothing wrong with trying a new one, at least to suppress an inner curiosity 🤙🤙
 
 🚴‍♂️ I have started to ride in summer 2021 where I was able to ride just a couple of KMs. Since then, I am riding and observing my progress to the current where I can ride more than 100 KMs with ease. Some of my rides can be seen [here](https://burak-kara.dev/social). 
-
-I would like to gain some experience in Go. I have mainly coding for the commercial products hosted on GitLab or others. Therefore, the activity here can seem less.
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burak-kara&count_private=true&show_icons=true&theme=apprentice)
 
