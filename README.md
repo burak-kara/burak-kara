@@ -1,6 +1,6 @@
 Hey, I'm Burak 👋🏻,
 
-I have been working on video streaming for more than three years. I've gained experience in 360-degree video streaming and low-latency streaming. I constantly seek to learn and improve my skills and am open to new opportunities and challenges.
+I have been working in the video streaming domain for over three years, currently focused on green video distribution. I've gained experience in 360-degree video streaming and low-latency streaming. I constantly seek to learn and improve my skills and am open to new opportunities and challenges.
 
 📚 I am a Ph.D. candidate [@Inria](https://team.inria.fr/ermine/) while I work at [@Synamedia](https://www.synamedia.com/) Rennes as an Associate Software Architect. Previously, I received my Master's and Bachelor's degree from [Ozyegin University](https://www.ozyegin.edu.tr/en), Turkiye. During my Master's degree, I worked on 360-degree video streaming with [Nokia](https://www.bell-labs.com/) for more than 2 years. In this project, we have filled three patent applications, and published three conference and one journal papers. The publications can be found [here](https://burak-kara.dev/academic).
 
