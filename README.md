@@ -21,10 +21,10 @@ I see programming languages and frameworks as tools to solve problems and expres
 
 ## 📈 My stats
 <a href="https://github.com/burak-kara" target="_blank" rel="noopener noreferrer">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-burakkaras-projects.vercel.app/api?username=burak-kara&count_private=true&show_icons=true&theme=apprentice" />
+  <img height=200 align="center" src="https://github-readme-stats-burakkara.vercel.app/api?username=burak-kara&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/burak-kara" target="_blank" rel="noopener noreferrer">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-burakkaras-projects.vercel.app/api/top-langs/?username=burak-kara&hide=html,c,scss,css,jupyter%20notebook,cmake,perl,v,verilog&layout=compact&theme=apprentice" />
+  <img height=200 align="center" src="https://github-readme-stats-burakkara.vercel.app/api/top-langs/?username=burak-kara&hide=html,c,scss,css,jupyter%20notebook,cmake,perl,v,verilog&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
 ## 📬 Get in touch
